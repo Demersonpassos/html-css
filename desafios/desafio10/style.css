@@ -113,7 +113,8 @@ header{
     padding: 0px;
     border: 0px solid black;
     outline: none;
-    min-width: 400px;   
+    min-width: 400px;
+    margin: auto;  
 }
 div{
     padding: 10px;
